@@ -1,6 +1,7 @@
 title: Millidocs Dark Theme
 description: Minimal dark theme for the existing Millidocs theme
 url: "https://github.com/Finned-Ad-Services/Finned-Docs" # the base hostname & protocol for your site, e.g. http://example.com
+remote_theme: flancast90/millidocs-dark
 
 # Build settings
 markdown: kramdown
